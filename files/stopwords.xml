@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stopwords>
+<substance subname="cannabis">
+<stopword>smoked</stopword>
+<stopword>weed</stopword>
+<stopword>smoke</stopword>
+<stopword>bowl</stopword>
+<stopword>smoking</stopword>
+<stopword>cannabis</stopword>
+<stopword>joint</stopword>
+<stopword>pot</stopword>
+<stopword>marijuana</stopword>
+<stopword>hit</stopword>
+<stopword>stoned</stopword>
+<stopword>high</stopword>
+</substance>
+<substance subname="salvia">
+<stopword>smoke</stopword>
+<stopword>salvia</stopword>
+<stopword>extract</stopword>
+<stopword>bong</stopword>
+<stopword>bowl</stopword>
+<stopword>divinorum</stopword>
+<stopword>pipe</stopword>
+<stopword>leaf</stopword>
+<stopword>packed</stopword>
+<stopword>smoked</stopword>
+<stopword>exhaled</stopword>
+<stopword>holding</stopword>
+<stopword>second</stopword>
+<stopword>lighter</stopword>
+<stopword>plant</stopword>
+<stopword>loaded</stopword>
+<stopword>lung</stopword>
+<stopword>smoking</stopword>
+<stopword>lit</stopword>
+<stopword>gram</stopword>
+<stopword>trip</stopword>
+<stopword>inhaled</stopword>
+</substance>
+<substance subname="mushrooms"><stopword>mushroom</stopword><stopword>shrooms</stopword><stopword>ate</stopword><stopword>gram</stopword><stopword>tripping</stopword><stopword>shroom</stopword><stopword>cubensis</stopword><stopword>trip</stopword><stopword>eating</stopword><stopword>psilocybin</stopword><stopword>tripped</stopword><stopword>dried</stopword><stopword>bag</stopword><stopword>eighth</stopword><stopword>sitting</stopword>
+<stopword>eat</stopword></substance>
+<substance subname="alcohol"><stopword>beer</stopword><stopword>alcohol</stopword><stopword>drinking</stopword><stopword>drink</stopword><stopword>drunk</stopword><stopword>drank</stopword><stopword>vodka</stopword><stopword>bottle</stopword><stopword>shot</stopword><stopword>wine</stopword><stopword>glass</stopword><stopword>buzz</stopword><stopword>don</stopword></substance>
+<substance subname="mdma"><stopword>mdma</stopword><stopword>ecstasy</stopword><stopword>pill</stopword><stopword>rolling</stopword><stopword>roll</stopword><stopword>rolled</stopword></substance>
+<substance subname="lsd"><stopword>acid</stopword><stopword>lsd</stopword><stopword>blotter</stopword><stopword>tripping</stopword><stopword>tab</stopword><stopword>hit</stopword><stopword>dropped</stopword><stopword>looked</stopword><stopword>trip</stopword><stopword>drop</stopword><stopword>tripped</stopword></substance>
+<substance subname="dxm"><stopword>dxm</stopword><stopword>cough</stopword><stopword>syrup</stopword><stopword>robitussin</stopword><stopword>robo</stopword><stopword>bottle</stopword><stopword>coricidin</stopword><stopword>tussin</stopword><stopword>cold</stopword><stopword>mg</stopword><stopword>trip</stopword><stopword>pill</stopword><stopword>drank</stopword><stopword>strength</stopword><stopword>maximum</stopword><stopword>robotussin</stopword><stopword>dose</stopword><stopword>drugdextromethorphan</stopword><stopword>downed</stopword></substance>
+<substance subname="tobacco"><stopword>cigarette</stopword><stopword>tobacco</stopword><stopword>smoke</stopword><stopword>smoking</stopword><stopword>smoked</stopword><stopword>nicotine</stopword><stopword>cig</stopword><stopword>light</stopword><stopword>hit</stopword><stopword>pack</stopword><stopword>smoker</stopword><stopword>bowl</stopword><stopword>lit</stopword><stopword>rolled</stopword></substance>
+<substance subname="cocaine"><stopword>coke</stopword><stopword>cocaine</stopword><stopword>line</stopword><stopword>snorted</stopword><stopword>gram</stopword><stopword>money</stopword><stopword>crack</stopword><stopword>snorting</stopword><stopword>snort</stopword><stopword>dealer</stopword><stopword>nose</stopword><stopword>cut</stopword><stopword>blow</stopword><stopword>high</stopword><stopword>bag</stopword><stopword>dollar</stopword></substance>
+<substance subname="amphetamines"><stopword>adderall</stopword><stopword>amphetamine</stopword><stopword>pill</stopword><stopword>speed</stopword><stopword>xr</stopword><stopword>dexedrine</stopword><stopword>ritalin</stopword><stopword>capsule</stopword><stopword>medication</stopword><stopword>bottle</stopword><stopword>snorted</stopword></substance>
+<substance subname="2ci"><stopword>2c</stopword><stopword>2ci</stopword><stopword>tripping</stopword><stopword>mg</stopword><stopword>trip</stopword><stopword>substance</stopword><stopword>dose</stopword><stopword>capsule</stopword></substance>
+<substance subname="nitrous"><stopword>nitrous</stopword><stopword>balloon</stopword><stopword>oxide</stopword><stopword>whippet</stopword><stopword>inhaled</stopword><stopword>cartridge</stopword><stopword>gas</stopword><stopword>inhale</stopword><stopword>oxygen</stopword><stopword>cream</stopword><stopword>breath</stopword><stopword>cracker</stopword><stopword>laughing</stopword><stopword>whipped</stopword><stopword>box</stopword><stopword>canister</stopword><stopword>deep</stopword><stopword>inhalinghit</stopword><stopword>filled</stopword><stopword>charger</stopword><stopword>whippits</stopword><stopword>n2o</stopword><stopword>whip</stopword></substance>
+<substance subname="meth"><stopword>meth</stopword><stopword>crystal</stopword><stopword>methamphetamine</stopword><stopword>speed</stopword><stopword>line</stopword><stopword>dealer</stopword><stopword>money</stopword><stopword>addict</stopword><stopword>snorted</stopword><stopword>bump</stopword><stopword>snorting</stopword><stopword>crank</stopword><stopword>snort</stopword><stopword>smoking</stopword><stopword>smoked</stopword><stopword>user</stopword><stopword>gram</stopword><stopword>smokenose</stopword><stopword>bag</stopword></substance>
+<substance subname="5meo_dmt"><stopword>meo</stopword><stopword>dmt</stopword><stopword>pipe</stopword><stopword>5meo</stopword><stopword>inhaled</stopword><stopword>crystal</stopword><stopword>substance</stopword><stopword>smoke</stopword><stopword>chemical</stopword><stopword>lung</stopword><stopword>hit</stopword><stopword>flame</stopword><stopword>lighter</stopword><stopword>dose</stopword><stopword>exhaled</stopword><stopword>small</stopword><stopword>smoked</stopword><stopword>smokingtrip</stopword><stopword>vaporized</stopword></substance>
+<substance subname="dmt"><stopword>dmt</stopword><stopword>pipe</stopword><stopword>crystal</stopword><stopword>glass</stopword><stopword>exhaled</stopword><stopword>lung</stopword><stopword>smoke</stopword><stopword>toke</stopword><stopword>hit</stopword><stopword>lighter</stopword><stopword>light</stopword><stopword>smoked</stopword><stopword>flame</stopword><stopword>inhaled</stopword><stopword>smoking</stopword></substance>
+<substance subname="ketamine"><stopword>ketamine</stopword><stopword>line</stopword><stopword>snorted</stopword><stopword>bump</stopword><stopword>injected</stopword><stopword>injection</stopword><stopword>snorting</stopword><stopword>dose</stopword></substance>
+<substance subname="5meo_dipt"><stopword>foxy</stopword><stopword>dipt</stopword><stopword>meo</stopword><stopword>load</stopword><stopword>mg</stopword><stopword>mdma</stopword><stopword>capsule</stopword><stopword>dose</stopword><stopword>tryptamine</stopword><stopword>substance</stopword><stopword>methoxy</stopword><stopword>fox</stopword><stopword>lsd</stopword><stopword>5meo</stopword><stopword>trip</stopword><stopword>psychedelic</stopword></substance>
+<substance subname="caffeine"><stopword>caffeine</stopword><stopword>coffee</stopword><stopword>pill</stopword><stopword>cup</stopword><stopword>drank</stopword><stopword>vivarin</stopword><stopword>stimulant</stopword><stopword>drinking</stopword><stopword>substance</stopword><stopword>mg</stopword></substance>
+<substance subname="2ce"><stopword>2c</stopword><stopword>2ce</stopword><stopword>psychedelic</stopword><stopword>chemical</stopword><stopword>tripping</stopword><stopword>mg</stopword></substance>
+<substance subname="diphenhydramine"><stopword>diphenhydramine</stopword><stopword>benadryl</stopword><stopword>pill</stopword><stopword>peruvian</stopword><stopword>mg</stopword><stopword>dxm</stopword><stopword>bottle</stopword><stopword>peruvianus</stopword><stopword>benedryl</stopword><stopword>dramamine</stopword><stopword>tablet</stopword><stopword>pm</stopword><stopword>medicine</stopword></substance>
+<substance subname="cacti"><stopword>cactus</stopword><stopword>pedro</stopword><stopword>san</stopword><stopword>mescaline</stopword><stopword>juice</stopword><stopword>mdma</stopword><stopword>boiled</stopword><stopword>spine</stopword><stopword>cutting</stopword><stopword>trichocereus</stopword><stopword>inch</stopword><stopword>liquid</stopword><stopword>dried</stopword><stopword>core</stopword><stopword>blender</stopword><stopword>torch</stopword><stopword>alkaloid</stopword><stopword>psychedelictripping</stopword><stopword>peyote</stopword><stopword>process</stopword><stopword>blended</stopword></substance>
+<substance subname="morning_glory"><stopword>glory</stopword><stopword>seed</stopword><stopword>heavenly</stopword><stopword>grinder</stopword><stopword>lsa</stopword><stopword>blue</stopword><stopword>morning</stopword><stopword>coffee</stopword><stopword>extraction</stopword><stopword>ground</stopword><stopword>ate</stopword><stopword>packet</stopword><stopword>pack</stopword><stopword>eating</stopword><stopword>water</stopword><stopword>powder</stopword><stopword>grind</stopword><stopword>eatwashed</stopword><stopword>tripping</stopword><stopword>liquid</stopword><stopword>method</stopword><stopword>chewed</stopword><stopword>drank</stopword><stopword>bought</stopword><stopword>mixed</stopword><stopword>untreated</stopword><stopword>lsd</stopword><stopword>trip</stopword><stopword>gram</stopword><stopword>filter</stopword><stopword>package</stopword><stopword>pearly</stopword><stopword>pulp</stopword></substance>
+<substance subname="syrian_rue"><stopword>rue</stopword><stopword>syrian</stopword><stopword>mimosa</stopword><stopword>harmala</stopword><stopword>ayahuasca</stopword><stopword>maoi</stopword><stopword>seed</stopword><stopword>hostilis</stopword><stopword>dmt</stopword><stopword>brew</stopword><stopword>boiled</stopword><stopword>juice</stopword><stopword>bark</stopword><stopword>peganum</stopword><stopword>liquid</stopword><stopword>ground</stopword><stopword>gram</stopword><stopword>boiladded</stopword><stopword>cup</stopword><stopword>drank</stopword><stopword>extract</stopword><stopword>water</stopword><stopword>grinder</stopword><stopword>preparation</stopword><stopword>coffee</stopword><stopword>prepared</stopword><stopword>root</stopword><stopword>boiling</stopword><stopword>strained</stopword><stopword>plant</stopword><stopword>harmaline</stopword><stopword>drink</stopword><stopword>mixture</stopword><stopword>mao</stopword><stopword>filtered</stopword><stopword>extraction</stopword><stopword>powder</stopword><stopword>ingestion</stopword><stopword>caapi</stopword><stopword>trip</stopword><stopword>teaspoon</stopword><stopword>ingested</stopword><stopword>dose</stopword></substance>
+<substance subname="hbw"><stopword>seed</stopword><stopword>woodrose</stopword><stopword>hawaiian</stopword><stopword>baby</stopword><stopword>hbwr</stopword><stopword>lsa</stopword><stopword>drink</stopword><stopword>hbw</stopword><stopword>coating</stopword><stopword>chewed</stopword><stopword>scraped</stopword><stopword>stomach</stopword><stopword>water</stopword><stopword>crushed</stopword><stopword>tripping</stopword><stopword>sleep</stopword><stopword>ground</stopword><stopword>atetrip</stopword><stopword>drank</stopword><stopword>eat</stopword><stopword>eaten</stopword><stopword>grinder</stopword><stopword>acid</stopword><stopword>extraction</stopword><stopword>strange</stopword><stopword>drink</stopword></substance>
+</stopwords>
